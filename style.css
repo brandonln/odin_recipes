@@ -11,6 +11,30 @@ div {
     display: flex;
 }
 
+
+
+.recipe_content {
+    width: 700px;
+    height: 500px;
+}
+
+.ingredients {
+    width: 500px;
+}
+
+.text {
+    text-align:justify;
+}
+
+p {
+    padding: 0 2ex;
+}
+
 img {
     margin: 0 auto;
+}
+
+.recipe_image {
+    height: 300px;
+    margin: 20px;
 }
