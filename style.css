@@ -1,0 +1,16 @@
+a {
+    color:red;
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+div {
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+}
+
+img {
+    margin: 0 auto;
+}
